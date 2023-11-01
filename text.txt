@@ -9,8 +9,8 @@ allow you to work with the named tools without having to installing them in your
 2.python manage.py startapp app
 3.Dockerfile
 4.docker-compose.yml
-5.configure settings.py
 
+5.configure settings.py
 CELERY_BROKER_URL = os.environ.get("CELERY_BROKER", "redis://redis:6379/0")
 CELERY_RESULT_BACKEND = os.environ.get("CELERY_BROKER", "redis://redis:6379/0")
 etc...
