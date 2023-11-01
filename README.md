@@ -1,4 +1,4 @@
-# DjangoDockerComposeCeleryRedisPostgresql
+#A simple DjangoDockerComposeCeleryRedisPostgresql with a simple task for Beginners
 
 use Django without installing it or  by VM
 -Django-Docker-Compose-Celery-Redis-PostgreSQL
